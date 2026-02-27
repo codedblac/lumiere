@@ -4,7 +4,6 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Award, Heart, Users, Utensils } from "lucide-react"
 
-
 const timeline = [
   {
     year: "2001",
