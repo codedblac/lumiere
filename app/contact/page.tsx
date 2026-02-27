@@ -12,7 +12,6 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { MapPin, Phone, Mail, Clock, MessageCircle, Send, CheckCircle } from "lucide-react"
 
 
-
 const inquiryTypes = [
   "General Inquiry",
   "Reservation",
